@@ -1,0 +1,23 @@
+
+---
+
+### **2. 23_EndpointRadar**  
+**Description:**  
+A fast and clean CLI utility to check multiple API endpoints for uptime and latency.
+
+#### **README.md**
+```markdown
+# EndpointRadar - API Monitor
+
+EndpointRadar pings HTTP endpoints and displays response codes and round-trip time in a readable table.
+
+## Features
+- Handles multiple endpoints  
+- Times requests in milliseconds  
+- Terminal or file output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_EndpointRadar.git
+cd 23_EndpointRadar
+python monitor.py
