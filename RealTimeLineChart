@@ -1,0 +1,23 @@
+
+---
+
+### **4. 23_RealTimeLineChart**  
+**Description:**  
+Plots streaming numeric data in real time using Matplotlib.
+
+#### **README.md**
+```markdown
+# RealTimeLineChart - Live Data Plot Visualizer
+
+RealTimeLineChart is a minimal real-time charting tool for monitoring metrics, simulations, or sensor data.
+
+## Features
+- Smooth line rendering  
+- Scrollable time axis  
+- Works with any numeric source  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_RealTimeLineChart.git
+cd 23_RealTimeLineChart
+python visualize.py
