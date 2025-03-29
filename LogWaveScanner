@@ -1,0 +1,23 @@
+
+---
+
+### **3. 23_LogWaveScanner**  
+**Description:**  
+Analyzes system or application logs for frequent and unusual patterns.
+
+#### **README.md**
+```markdown
+# LogWaveScanner - Repetition & Anomaly Log Finder
+
+LogWaveScanner finds repeating log entries and surfaces spikes that may indicate system instability or attacks.
+
+## Features
+- Frequency-based summary  
+- Pattern detection  
+- Easy to adapt to any log format  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_LogWaveScanner.git
+cd 23_LogWaveScanner
+python analyze.py
